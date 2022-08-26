@@ -1,3 +1,2 @@
 #!/bin/bash
-
-gcc -std=c11 -o main main.c
+g++ -std=c11 -o main main.c
